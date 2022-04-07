@@ -21,7 +21,7 @@ import com.mvc.service.ProductService;
 
 @Controller
 public class ProductController {
-	
+	//controller
 	@Autowired
 	private ProductService productService;
 	
